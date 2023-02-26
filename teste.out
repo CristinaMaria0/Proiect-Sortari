@@ -1,0 +1,72 @@
+Testul numarul 1:
+InsertionSort: 3045 microsecunde
+CountingSort:0 microsecunde
+RadixSort:0 microsecunde
+ShellSort:0 microsecunde
+MergeSort:0 microsecunde
+Sort:0 microsecunde
+
+Testul numarul 2:
+InsertionSort: 2958 microsecunde
+CountingSort:982 microsecunde
+RadixSort:0 microsecunde
+ShellSort:0 microsecunde
+MergeSort:0 microsecunde
+Sort:0 microsecunde
+
+Testul numarul 3:
+InsertionSort: 252024 microsecunde
+CountingSort:1984 microsecunde
+RadixSort:2000 microsecunde
+ShellSort:999 microsecunde
+MergeSort:3005 microsecunde
+Sort:2002 microsecunde
+
+Testul numarul 4:
+InsertionSort: 210003 microsecunde
+CountingSort:2067 microsecunde
+RadixSort:3945 microsecunde
+ShellSort:1983 microsecunde
+MergeSort:2003 microsecunde
+Sort:4000 microsecunde
+
+Testul numarul 5:
+InsertionSort: 24751901 microsecunde
+CountingSort:6980 microsecunde
+RadixSort:27004 microsecunde
+ShellSort:17009 microsecunde
+MergeSort:30077 microsecunde
+Sort:33972 microsecunde
+
+Testul numarul 6:
+InsertionSort:20430050 microsecunde
+CountingSort:8993 microsecunde
+RadixSort:25992 microsecunde
+ShellSort:22996 microsecunde
+MergeSort:26000 microsecunde
+Sort:31004 microsecunde
+
+Testul numarul 7:
+InsertionSort:242300050 microsecunde
+CountingSort:73000 microsecunde
+RadixSort:258991 microsecunde
+ShellSort:207958 microsecunde
+MergeSort: Can't sort
+Sort:326966 microsecunde
+
+Testul numarul 8:
+InsertionSort:227523499 microsecunde
+CountingSort:73031 microsecunde
+RadixSort:250995 microsecunde
+ShellSort:199978 microsecunde
+MergeSort: Can't sort
+Sort:338965 microsecunde
+
+Testul numarul 9:
+InsertionSort:
+CountingSort:791010 microsecunde
+RadixSort:2582009 microsecunde
+ShellSort:2482038 microsecunde
+MergeSort: Can't sort
+Sort:3957036 microsecunde
+
